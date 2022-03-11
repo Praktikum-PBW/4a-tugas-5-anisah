@@ -1,0 +1,63 @@
+.btn-primary {
+    background-color: #659692;
+    border-color: #a2b387;
+}
+
+.btn-primary:hover {
+    background-color: #41613e;
+    border-color: #87b3b3;
+}
+
+h1, h2 {
+    color: #caa688;
+    font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+    background-color: #e3f2fd;
+    font-family: monospace;
+    padding: 5px;
+    padding-top: 10px;
+    color:#878ab3;
+}
+
+.col-6 h6 {
+    font-style: oblique;
+    text-align: left;
+    padding-top: 25px;
+}
+
+.col-6 img {
+    height: 95%;
+}
+
+#about {
+    margin-top: 100px;
+}
+
+.card-title {
+    color: #c9ca88;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    color: #888eca;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.30);
+    transition: .3s;
+}
+
+.navbar ul li a:focus {
+    color: #888eca;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.30);
+    transition: .3s;
+}
+
+.navbar ul li a:active {
+    color: #888eca;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.30);
+    transition: .3s;
+}
